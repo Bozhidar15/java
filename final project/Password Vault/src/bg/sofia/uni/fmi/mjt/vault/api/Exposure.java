@@ -15,8 +15,8 @@ import java.net.http.HttpResponse;
 import java.util.Base64;
 
 public class Exposure {
-    private static final String API_KEY = "be3458d568884128a7d60ab734a77768";
-    private static final String API_SECRET = "&WGs%=HW33h+HDN1w7%95D-TVBZ%-?M%";
+    private static final String API_KEY = "";
+    private static final String API_SECRET = "";
     private static final String SHA1_FOR_HASH = "SHA-1";
     private static final String SHA256_FOR_HASH = "SHA-256";
     private static final String MD5_FOR_HASH = "MD5";
