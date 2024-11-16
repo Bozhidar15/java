@@ -9,4 +9,5 @@ public class Apartment extends Place{
         MyLocation=location;
         price=pricePerNight;
     }
+
 }

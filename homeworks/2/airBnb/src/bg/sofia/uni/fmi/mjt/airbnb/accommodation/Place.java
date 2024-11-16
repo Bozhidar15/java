@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
 
 public class Place implements Bookable {
-    public static int VillaCounter = 0, ApartamentsCounter = 0, HotelCounter = 0, AllReserved = 0,AllPrice=0;
+    public static int VillaCounter = 0, ApartamentsCounter = 0, HotelCounter = 0, AllReserved = 0, AllPrice=0;
     protected double price=0.0;
     protected Location MyLocation=null;
     protected LocalDateTime start, end;

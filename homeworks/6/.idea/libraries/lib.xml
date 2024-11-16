@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MyFitnessPal/lib/mockito-junit-jupiter-4.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MyFitnessPal/lib/byte-buddy-1.12.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MyFitnessPal/lib/byte-buddy-agent-1.12.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MyFitnessPal/lib/objenesis-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MyFitnessPal/lib/mockito-core-4.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

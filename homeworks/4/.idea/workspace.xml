@@ -1,28 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e59594d-ef04-406a-b9ee-6dac2ca32d48" name="Changes" comment="" />
+    <list default="true" id="7e59594d-ef04-406a-b9ee-6dac2ca32d48" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../everything/everything.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2/airBnb/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2/airBnb/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final project/Password Vault/Password Vault.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../final project/Password Vault/Password Vault.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/airBnb/src/bg/sofia/uni/fmi/mjt/airbnb/accommodation/Apartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2/airBnb/src/bg/sofia/uni/fmi/mjt/airbnb/accommodation/Apartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/airBnb/src/bg/sofia/uni/fmi/mjt/airbnb/accommodation/Place.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2/airBnb/src/bg/sofia/uni/fmi/mjt/airbnb/accommodation/Place.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_3/News Feed/src/bg/sofia/uni/fmi/mjt/news/NewsClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_3/News Feed/src/bg/sofia/uni/fmi/mjt/news/NewsClient.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HgiXsaqXKpsPxt3PF4cl1fQCbr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/СУ/2ри курс/java/homeworks/4"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/СУ/2ри курс/java/homeworks/4&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,10 +45,22 @@
       <option name="presentableId" value="Default" />
       <updated>1668713169875</updated>
       <workItem from="1668713171086" duration="31000" />
+      <workItem from="1730029944522" duration="4671000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

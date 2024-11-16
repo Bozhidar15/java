@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MiniOutlook">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MiniOutlook/MiniOutlook.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

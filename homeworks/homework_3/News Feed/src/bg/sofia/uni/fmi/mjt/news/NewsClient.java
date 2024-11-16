@@ -17,7 +17,7 @@ import java.net.http.HttpResponse;
 
 public class NewsClient {
 
-    private static final String API_KEY = "903ac21252774ab0aa0a2a7086e3fb6e";
+    private static final String API_KEY = "";
 
     private static final String API_ENDPOINT_SCHEME = "http";
     private static final String API_ENDPOINT_HOST = "newsapi.org";
